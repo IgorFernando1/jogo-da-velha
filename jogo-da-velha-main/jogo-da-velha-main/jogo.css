@@ -1,0 +1,9 @@
+body{
+  background: green;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.linha{
+  border: 2px solid black
+}
